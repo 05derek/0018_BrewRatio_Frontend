@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BrewRatio</string>
+    <string name="tagline">Precision Pour-Over, Every Cup</string>
+    <string name="welcome_subtitle">Ukur rasio presisi.\nCatat profil rasa.\nSempurnakan seduhan V60 Anda.</string>
+    <string name="btn_get_started">Mulai Seduh</string>
+    <string name="btn_register">Daftar Akun Baru</string>
+    <string name="btn_offline_mode">Kalkulator &amp; Catatan Offline</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_beans">Biji Kopi</string>
+    <string name="nav_calculator">Kalkulator</string>
+    <string name="nav_logs">Logbook</string>
+    <string name="nav_profile">Profil</string>
+    <string name="error_network">Tidak dapat terhubung ke server. Periksa alamat server backend Anda.</string>
+    <string name="error_required_fields">Harap lengkapi seluruh kolom yang wajib diisi.</string>
+</resources>

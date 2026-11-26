@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_canvas">#FFFAF6EF</color>
+    <color name="sand_surface">#FFEEE0CB</color>
+    <color name="taupe_accent">#FFC2847A</color>
+    <color name="charcoal_espresso">#FF3E3F40</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
